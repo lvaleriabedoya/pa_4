@@ -171,6 +171,8 @@ Overall, the analysis confirmed both hypotheses: bilingual speakers produced Spa
 
 Note: I will never wait until the last minute to complete these tasks again, because it is really frustrating when things don’t work and you know you could have started earlier. Still, I learned a lot from these PA assignments. When I was in school, I completed a technician program in electronics and had to do some programming. I used to enjoy it because it felt like solving cases or little mysteries. That is exactly what I liked the most here: trying to understand what was happening and figuring out how to fix it.
 
-Getting the plots and graphics at the end made me feel like a very small version of a researcher, and that part was actually exciting. The part I hated the most was the issue with my computer — just when I finally felt like I understood everything, my laptop broke. Even though I technically didn’t need it, it made me feel like I did, and that added a lot of stress.
+Getting the plots and graphics at the end made me feel like a very small version of a researcher, and that part was actually exciting. The part I hated the most was the issue with my computer, just when I finally felt like I understood everything, my laptop broke. Even though I technically didn’t need it, it made me feel like I did, and that added a lot of stress.
+
+I received a lot of help from AI because it continuously said I couldn't do certain things because of the version of R. It helped me a lot with the stats because I tried to use what worked for my other classmates and it was not working for me. 
 
 </br></br>

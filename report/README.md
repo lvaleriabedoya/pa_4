@@ -2,7 +2,7 @@ Programming assignment 4
 ================
 
 **Author**: Valeria Bedoya  
-**Date**: Last update: 2025-11-26 14:54:04.632541
+**Date**: Last update: 2025-11-26 15:12:43.384994
 
 # Overview
 
@@ -334,9 +334,14 @@ figuring out how to fix it.
 
 Getting the plots and graphics at the end made me feel like a very small
 version of a researcher, and that part was actually exciting. The part I
-hated the most was the issue with my computer — just when I finally felt
+hated the most was the issue with my computer, just when I finally felt
 like I understood everything, my laptop broke. Even though I technically
 didn’t need it, it made me feel like I did, and that added a lot of
 stress.
+
+I received a lot of help from AI because it continuously said I couldn’t
+do certain things because of the version of R. It helped me a lot with
+the stats because I tried to use what worked for my other classmates and
+it was not working for me.
 
 </br></br>
